@@ -1,10 +1,8 @@
 # SP2025_HW2 Release
----
 
 **[Homework Spec](https://hackmd.io/@YuHsunWang/rySAuYYolg)**
 **[Video Link](https://youtu.be/zSfsWa2b2Go)**
 **[Discussion Space Link](https://github.com/NTU-SP/SP2025_HW2_release/discussions/categories/q-a)**
---
 
 ## TODO:
 1. Complete Makefile
